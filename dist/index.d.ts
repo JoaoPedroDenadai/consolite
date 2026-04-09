@@ -15,7 +15,7 @@ export interface LogColors {
 }
 
 export interface LogMethods {
-    log(message: string, ...additional: any[]): void;
+    message(message: string, ...additional: any[]): void;
     warn(message: string, ...additional: any[]): void;
     error(message: string, ...additional: any[]): void;
     success(message: string, ...additional: any[]): void;
