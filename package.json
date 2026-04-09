@@ -1,6 +1,6 @@
 {
-  "name": "consolit",
-  "version": "0.1.0",
+  "name": "consolity",
+  "version": "0.1.1",
   "description": "A simple and fast log system.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
@@ -21,5 +21,13 @@
   },
   "keywords": ["utils"],
   "author": "thiscalicocat",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoPedroDenadai/consolity.git"
+  },
+  "homepage": "https://github.com/JoaoPedroDenadai/consolity#readme",
+  "bugs": {
+    "url": "https://github.com/JoaoPedroDenadai/consolity/issues"
+  }
 }
